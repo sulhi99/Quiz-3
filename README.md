@@ -18,7 +18,7 @@ and I am 3 years old.
 - A class is a template definition of the method and variable in a particular kind of object . A class consists of properties and method definitions.
 
 ### 5. What is the difference between a class and an instance?
--A class acts as a blueprint of an object or instance. A class defines the properties and methods of an object or instance while the instance is the object of a class created to be used in a program.
+- A class acts as a blueprint of an object or instance. A class defines the properties and methods of an object or instance while the instance is the object of a class created to be used in a program.
 
 ### 6. Change the declaration of the instance variable age of Animal to a class variable using static, in this way:
 ### public static int age;
@@ -34,7 +34,7 @@ and I am 3 years old.
  - This is because the variable will just be shared by all instances of the class after changed it to static. So, Cat and Dog classes will not have the same variable with Animal class.
 
 ### 8. Where is the value of an instance variable stored?
--It will be stored in the class itself where the variable was defined. For example, it will be stored in the class itself where the variable was defined.
+- It will be stored in the class itself where the variable was defined. For example, it will be stored in the class itself where the variable was defined.
 
 ### 9. Where is the value of a class variable stored?
 - The value of class variable stored inside a property of the class objects. For example, age is a property of Animal. So, the age will be stored in an Animal instance.
